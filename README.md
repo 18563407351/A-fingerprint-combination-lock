@@ -24,4 +24,4 @@ In addition, this system is users friendly. Enrolling the fingerprint once and t
 ![key generation procedure](https://github.com/18563407351/A-fingerprint-combination-lock/blob/main/images/circuit%20of%20project.png)  
 
 
-For further information, please refer to 'A fingerprint combination lock.pdf
+#### For further information, please refer to 'A fingerprint combination lock.pdf
