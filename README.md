@@ -12,15 +12,11 @@ In addition, this system is users friendly. Enrolling the fingerprint once and t
 * 1000ohm resistor
 * LED light
 ## Functions of the lock
-* Arduino Uno
-* LCD display 
-* Fingerprint sensor 
-* Relay module
-* Buzzer
-* Keypad
-* Breadboard
-* 1000ohm resistor
-* LED light
+* Fingerprint entry and deletion
+* Fingerprint unlocking 
+* Password unlocking
+* Unlock failure alarm  
+
 ## Workflow of the lock
 ![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
 ## Circuit diagram
