@@ -24,6 +24,6 @@ In addition, this system is users friendly. Enrolling the fingerprint once and t
 ## Workflow of the lock
 ![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
 ## Circuit diagram
-![key generation procedure](https://github.com/18563407351/Liverpool-FYP/blob/main/images/1603971639(1).png)
+![key generation procedure](https://github.com/18563407351/A-fingerprint-combination-lock/blob/main/images/circuit%20of%20project.png)
 
 For further information, please refer to 'A fingerprint combination lock.pdf
